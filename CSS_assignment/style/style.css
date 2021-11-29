@@ -1,0 +1,178 @@
+body
+{
+    font-family: sans-serif;
+    overflow-x: hidden;
+}
+#firstdiv
+{
+    width: 125%;
+    height: 125%;
+    background-image: url(../images/Vector-1.png);
+    background-repeat: no-repeat;
+}
+.firstleft
+{
+    margin:61.667px;
+    width: 35%;
+    float: left;
+    text-align: left;
+}
+.firstleft img{
+    width:60px;
+    height:55.1px;
+}
+.firstleft h1{
+   
+    color: #283a5e;
+    font-size: 25px;
+    line-height: 30px;
+}
+.firstleft p{
+    font-size: 16px;
+    line-height: 24px;
+}
+.firstleft b{
+    font-size: 16px;
+    color: #3C4D6F;
+    letter-spacing: 0;
+    line-height: 30px;
+}
+.firstleft span{
+    color: #ff4800;
+    font-size: 20px;
+}
+#righting
+{
+    width: 16px;
+    height: 16px;
+}
+.firstright
+{
+    margin:61.667px;
+    float:left;
+    border: 1px solid black;
+    padding: 50px;
+    padding-top: 0px;
+    
+}
+.firstright input
+{
+    padding: 10px;
+}
+.firstright textarea
+{
+    padding-top: 10px;
+    padding-left: 10px;
+    font-family: monospace;
+}
+.firstright h1
+{
+    text-align: center;
+}
+.firstright p
+{
+    text-align: center;
+}
+input:hover
+{
+    border: 1px solid lightsalmon;
+}
+textarea:focus
+{
+    border: 1px solid lightsalmon;
+}
+#submitbutton
+{
+    padding: 10px 165px;
+    background-color: #ff4800;
+    color: white;
+    font-size: 20px;
+    border: 1px solid #ff4800;
+    border-radius: 3px;
+}
+.firstright span{
+    color: #ff4800;
+}
+.officeDiv
+{
+    margin:auto;
+}
+.officeDiv h1{
+    color:#283a5e;
+    text-align: center;
+    font-size: 36px;
+    font-family: Caros-Bold,sans-serif;
+}
+.officeDiv li{
+    width:25%;
+    float: left;
+    list-style: none;
+    border: 1px solid #282828;
+    font-family: sans-serif;
+    line-height: 30px;
+    margin: 30px;
+    color:#283A5F;
+}
+.officeDiv p{
+    position: relative;
+    left:10px;
+}
+.officeDiv img{
+    width:100%;
+    height: 25%;
+    
+}
+.officeDiv table a:hover{
+    color: #818a91;
+}
+
+#follow
+{ 
+    font-family: "Caros Bold", Caros;
+    font-size: xx-large;
+    line-height: 25px;
+    clear: both;
+    text-align: center;
+    margin-left: 30%;
+    padding: 20px;
+   
+}
+#follo
+{
+    padding: 20px;
+    color:  #55617C;
+    font-size: 30px;
+}
+#floa
+{
+    
+    float: right;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+#footer{
+    margin:61.667px;
+    width: 10%;
+    float: left;
+    text-align: left;
+}
+#foot{
+    width: 80%;
+    margin:10.667px;
+    float:right;
+    border:none;
+    padding: 50px;
+    padding-top: 0px;
+}
+#copyright
+{
+    margin-left: 20%;
+    text-align: center;
+}
+#colored{
+    color: rgb(240, 75, 75);
+}
+#foot:hover{
+    color: orange;
+}
